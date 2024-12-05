@@ -40,5 +40,11 @@ This repository contains solutions to various **Data Structures and Algorithms (
 
 ---
 
+### 6. Sort Colors (Dutch National Flag Problem)
+   - **Problem Statement**: Given an array `nums` with \(n\) objects colored red, white, or blue (represented by 0, 1, and 2 respectively), sort the array in-place such that objects of the same color are adjacent, in the order red, white, and blue. The solution must not use the library's sort function and should run in \(O(n)\) time with \(O(1)\) space.
+   - **Link**: [Sort Colors](https://leetcode.com/problems/sort-colors/)
+   - **File**: `SortColors.java`
+
+---
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
