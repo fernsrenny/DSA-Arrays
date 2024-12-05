@@ -33,5 +33,12 @@ This repository contains solutions to various **Data Structures and Algorithms (
 
 ---
 
+### 5. Find the Duplicate Number
+   - **Problem Statement**: Given an array of integers `nums` containing \(n + 1\) integers where each integer is in the range \([1, n]\), find the single repeated number without modifying the array and using constant extra space.
+   - **Link**: [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
+   - **File**: `DuplicateNumber.java`
+
+---
+
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
