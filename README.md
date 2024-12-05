@@ -26,5 +26,12 @@ This repository contains solutions to various **Data Structures and Algorithms (
 
 ---
 
+### 4. Chocolate Distribution Problem
+   - **Problem Statement**: Given an array where each element represents the number of chocolates in a packet, distribute the packets among m students such that the difference between the maximum and minimum chocolates is minimized.
+   - **Link**: [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+   - **File**: `Chocolate_Distribution.java`
+
+---
+
 ## **License**
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
